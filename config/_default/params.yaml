@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   branding:
     # Display name shown in navbar and general site display
-    name: "Your Name"
+    name: "Fanshi Meng"
     # Optional: Browser tab title (defaults to name if not set)
     # site_title: "Your Name | Research"
     # Optional: Legal/copyright entity (defaults to name if not set)
@@ -61,8 +61,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'BuildLore'
+    description: 'Fanshi Meng - M.S. Computer Science student at Georgia Tech. Full-stack developer specializing in AI-powered applications with Java, Spring Boot, React, and Go.'
+    twitter: ''
     llm:
       allow:
         - /

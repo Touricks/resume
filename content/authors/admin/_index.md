@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Fanshi Meng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Fanshi
+last_name: Meng
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,150 +23,114 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: M.S. in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:f36meng@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Touricks
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/fanshi-meng-232b62229
+  - icon: brands/youtube
+    url: https://www.youtube.com/@fanshimeng4272
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Full-Stack Development
+  - AI/LLM Applications
+  - Cloud Computing
+  - Distributed Systems
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: M.S. Computer Science and Engineering
+    institution: Georgia Institute of Technology
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-08-01
+    date_end: 2026-12-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Pursuing Master's degree in Computer Science with focus on software engineering and AI applications.
+  - area: B.S. Materials and Nanoscience (Honours)
+    institution: Beijing Jiaotong University - University of Waterloo Joint Program
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2019-09-01
+    date_end: 2023-06-30
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Minor in Computer Science. Honours degree in Materials and Nanoscience from a joint program between Beijing Jiaotong University and University of Waterloo.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Lab Researcher
+    company_name: University of Waterloo Research Institute
+    company_url: 'https://uwaterloo.ca/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2022-09-01
+    date_end: 2023-04-30
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Developed an aptamer prediction pipeline from SELEX experimental data of theophylline with initial 100k sequences
+      - Integrated clustering-based sequence representation with Nussinov RNA secondary-structure model for structure-aware affinity scoring
+      - Achieved ROC-AUC = 0.80 and top-k recall = 80% on targets, with +0.20 ROC-AUC improvement over baseline
+      - Validated round-wise stratified splits to prevent data leakage
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
-      - name: Python & PyTorch
+      - name: Java
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Python
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: code-bracket
+      - name: JavaScript/TypeScript
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 85
+        icon: code-bracket
+      - name: Go
+        description: ''
+        percent: 80
+        icon: code-bracket
+  - name: Frameworks & Tools
+    items:
+      - name: Spring Boot
+        description: ''
+        percent: 95
+        icon: server
+      - name: React
+        description: ''
+        percent: 90
+        icon: computer-desktop
+      - name: PostgreSQL/MySQL
+        description: ''
+        percent: 85
+        icon: circle-stack
+      - name: AWS/GCS/Docker
+        description: ''
+        percent: 80
+        icon: cloud
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards (optional - can be customized)
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: Honours Degree
+    url: ''
+    date: '2023-06-30'
+    awarder: University of Waterloo
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Graduated with Honours in Materials and Nanoscience from the joint program.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Fanshi Meng is a Master's student in Computer Science at Georgia Institute of Technology with a passion for building full-stack applications powered by AI. With experience in Java/Spring Boot, React, Go, and Python/FastAPI, Fanshi specializes in developing scalable web applications with AI-driven features including LLM integration, RAG pipelines, and intelligent recommendation systems. His projects demonstrate expertise in modern cloud technologies (AWS, GCS), database systems (PostgreSQL, Elasticsearch, ChromaDB), and microservices architecture.
