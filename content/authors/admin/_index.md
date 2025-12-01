@@ -44,9 +44,8 @@ profiles:
 
 interests:
   - Full-Stack Development
-  - AI/LLM Applications
+  - LLM Applications
   - Cloud Computing
-  - Distributed Systems
 
 education:
   - area: M.S. Computer Science and Engineering
@@ -56,7 +55,7 @@ education:
     date_end: 2026-12-31
     summary: |
       Pursuing Master's degree in Computer Science with focus on software engineering and AI applications.
-  - area: B.S. Materials and Nanoscience (Honours)
+  - area: B.S. Materials and Nanoscience 
     institution: Beijing Jiaotong University - University of Waterloo Joint Program
     icon: ""
     date_start: 2019-09-01
@@ -116,11 +115,11 @@ skills:
         percent: 80
         icon: cloud
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 100
 
 # Awards (optional - can be customized)
 awards:

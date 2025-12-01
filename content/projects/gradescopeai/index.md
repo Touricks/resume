@@ -17,6 +17,7 @@ tags:
 An educational platform with AI-powered grading using RAG pipeline, enabling instructors to manage courses and provide intelligent feedback.
 
 <!--more-->
+![GradeScopeAI 界面](featured.png)
 
 ## Features
 
