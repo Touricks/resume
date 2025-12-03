@@ -22,6 +22,8 @@ A knowledge graph-powered travel recommendation engine using LightRAG and MCP pr
 
 This project builds an intelligent travel recommendation system by constructing a knowledge graph from real-world POI data and exposing it through the Model Context Protocol (MCP) for seamless LLM agent integration.
 
+![System Architecture](workflow.png)
+
 ## Key Highlights
 
 - **Knowledge Graph Construction**: Processed 1,136 Florida POIs from Google Maps API through LightRAG framework, generating a knowledge graph with **2,767 entities** and **6,203 relations**

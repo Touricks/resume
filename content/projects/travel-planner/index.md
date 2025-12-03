@@ -17,6 +17,20 @@ A full-stack travel planning application with AI-powered itinerary generation, f
 
 <!--more-->
 
+## System Architecture
+
+![System Workflow](workflow.png)
+
+The workflow diagram illustrates the core user journey:
+
+1. **Create Itinerary**: User submits trip parameters (destination, dates, budget, travel pace). The system saves the itinerary and asynchronously triggers `POIRecommendationService` to generate personalized POI suggestions via LangChain4j + OpenAI.
+
+2. **Browse & Curate**: User browses AI-generated recommendations with pagination and keyword filtering, then adds preferred POIs to their interest list.
+
+3. **Generate Optimized Plan**: `PlanningLLMService` uses a greedy algorithm to optimize routes considering opening hours, travel time, and daily constraints—producing a balanced multi-day itinerary with `PlannedDay` and `PlannedStop` entities.
+
+4. **View & Manage**: RESTful APIs expose plan versions, enabling users to retrieve and compare itinerary snapshots.
+
 ## Features
 
 - **JWT-based Authentication**: Secure user authentication with password reset flow via email service
