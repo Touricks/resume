@@ -1,6 +1,7 @@
 ---
 title: Travel Planner - LightRAG Recommend Engine
 date: 2024-12-01
+weight: 1
 links:
   - type: site
     url: https://github.com/Touricks

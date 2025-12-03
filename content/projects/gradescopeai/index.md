@@ -1,6 +1,7 @@
 ---
 title: GradeScopeAI
 date: 2025-07-01
+weight: 3
 links:
   - type: site
     url: https://github.com/Touricks
@@ -17,7 +18,6 @@ tags:
 An educational platform with AI-powered grading using RAG pipeline, enabling instructors to manage courses and provide intelligent feedback.
 
 <!--more-->
-![GradeScopeAI 界面](featured.png)
 
 ## Features
 

@@ -12,7 +12,9 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: 
+      text:
+      sort_by: 'weight'
+      sort_ascending: true
       filters:
         folders:
           - projects

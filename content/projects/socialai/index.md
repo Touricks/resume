@@ -1,6 +1,7 @@
 ---
 title: SocialAI
 date: 2025-04-01
+weight: 5
 links:
   - type: site
     url: https://github.com/Touricks
