@@ -1,7 +1,7 @@
 ---
 title: Travel Planner
 date: 2025-01-15
-weight: 2
+weight: 4
 links:
   - type: site
     url: https://github.com/Touricks

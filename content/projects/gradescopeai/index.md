@@ -1,7 +1,7 @@
 ---
 title: GradeScopeAI
 date: 2025-07-01
-weight: 3
+weight: 2
 links:
   - type: site
     url: https://github.com/Touricks

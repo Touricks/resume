@@ -1,7 +1,7 @@
 ---
 title: Staybooking
 date: 2025-02-01
-weight: 4
+weight: 3
 links:
   - type: site
     url: https://github.com/Touricks

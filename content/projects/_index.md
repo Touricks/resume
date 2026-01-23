@@ -14,7 +14,7 @@ sections:
       title: Selected Projects
       text:
       sort_by: 'weight'
-      sort_ascending: true
+      sort_ascending: false
       filters:
         folders:
           - projects
