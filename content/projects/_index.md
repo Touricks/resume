@@ -15,6 +15,7 @@ sections:
       text:
       sort_by: 'weight'
       sort_ascending: false
+      count: 0
       filters:
         folders:
           - projects

@@ -17,6 +17,9 @@ tags:
 A full-stack travel planning application with AI-powered itinerary generation, featuring JWT-based authentication and preference-driven recommendations.
 
 <!--more-->
+## Live Video
+
+{{< youtube L_fC7wbVNGI>}}
 
 ## System Architecture
 

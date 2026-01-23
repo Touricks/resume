@@ -17,6 +17,10 @@ A social media application with AI-assisted image generation powered by OpenAI D
 
 <!--more-->
 
+## Live Video
+
+{{< youtube kH_OvHM0Www >}}
+
 ## Features
 
 - **AI Image Generation**: Integrated OpenAI DALL-E for AI-assisted image creation

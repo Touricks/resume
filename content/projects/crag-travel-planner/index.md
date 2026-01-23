@@ -16,6 +16,10 @@ An intelligent travel planning assistant powered by Corrective Retrieval Augment
 
 <!--more-->
 
+## Live Demo
+
+{{< youtube TdMjaGdsFxQ >}}
+
 ## System Architecture
 
 ![LangGraph Workflow](langgraph-workflow.png)
@@ -53,10 +57,6 @@ The system consists of two integrated pipelines:
 - React frontend for user interaction
 - Java backend (Spring Boot) for business logic and JWT authentication
 - CRAG backend (FastAPI) for AI-powered search and generation
-
-## Live Demo
-
-![Travel Planner UI](featured.png)
 
 The application features:
 - Natural language chat interface for trip planning

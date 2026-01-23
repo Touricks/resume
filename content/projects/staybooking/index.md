@@ -16,6 +16,9 @@ tags:
 A full-stack accommodation booking platform with location-based search and cloud-integrated image management.
 
 <!--more-->
+## Live Video
+
+{{< youtube YnWIpMOmipU>}}
 
 ## Features
 

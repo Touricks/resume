@@ -18,6 +18,9 @@ tags:
 An educational platform with AI-powered grading using RAG pipeline, enabling instructors to manage courses and provide intelligent feedback.
 
 <!--more-->
+## Live Video
+
+{{< youtube SNxbv7ewE4s>}}
 
 ## Features
 

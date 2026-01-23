@@ -23,6 +23,7 @@ A knowledge graph-powered travel recommendation engine using LightRAG and MCP pr
 
 This project builds an intelligent travel recommendation system by constructing a knowledge graph from real-world POI data and exposing it through the Model Context Protocol (MCP) for seamless LLM agent integration.
 
+For Demo Video, refer CRAG Travel Planner
 ![System Architecture](workflow.png)
 
 ## Key Highlights
