@@ -122,3 +122,7 @@ Hugo modules (via go.mod):
 - Content uses front matter (YAML) + Markdown body
 - Images go in content directories as `featured.jpg` or `index.md` siblings
 - Custom icons: add SVGs to `assets/media/icons/custom/`
+
+## Test
+Use pnpm dev to preview the site.
+Check if current configuration align with user's demand

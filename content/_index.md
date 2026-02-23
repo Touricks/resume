@@ -91,5 +91,7 @@ sections:
       offset: 0
       order: desc
     design:
-      view: card
+      view: article-grid
+      fill_image: false
+      columns: 2
 ---
